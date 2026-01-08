@@ -4,15 +4,15 @@ Built using FastMCP, SQLite, and Python, this project demonstrates how AI agents
 
 ## ✨ Features
 
-- 📌 MCP Tools for Expense Management
+- **📌 MCP Tools for Expense Management**
 
-1.  Add new expense entries
+1. Add new expense entries
 
--- List expenses within a date range
+2. List expenses within a date range
 
-Edit existing expenses
+3. Edit existing expenses
 
-Delete expenses by date and category
+4. Delete expenses by date and category
 
 💾 Persistent Storage
 
@@ -160,3 +160,4 @@ Backend engineering fundamentals with AI integration
 
 Parth Singh Rana
 AI / GenAI / Agentic Systems Enthusiast
+
